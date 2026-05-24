@@ -1,0 +1,9 @@
+﻿{
+  "name": "@monorepo/util-24",
+  "version": "1.0.0",
+  "description": "Utilidad util-24",
+  "main": "index.js",
+  "scripts": { "test": "echo \"No tests yet\" && exit 0" },
+  "keywords": [],
+  "license": "MIT"
+}
