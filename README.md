@@ -22,3 +22,5 @@ Monorepo de utilidades internas (util-01 a util-25).
 - Force update util-10: 04:31:23
 
 - Force update util-11: 04:31:34
+
+- Force update util-12: 04:31:45
